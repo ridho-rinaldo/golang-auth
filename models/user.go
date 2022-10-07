@@ -1,5 +1,6 @@
 package models
 
+// BUILD USER MODEL
 type User struct {
 	Id       uint   `json:"id"`
 	Username string `json:"username"`
